@@ -1,7 +1,7 @@
 {
   "name": "r1-user-validation",
   "version": "1.0.0",
-  "main": "/Users/ivetlopezprados/desktop/launch-starter-js-main/js/R1-user-validation.js",
+  "main": "launch-starter-js-main/js/R1-user-validation.js",
   "type": "module",
   "scripts": {
     "start": "node ."
